@@ -4,6 +4,12 @@
 
 ---
 
+## 📒 NotebookLM
+
+Confira o caderno temático desenvolvido no NotebookLM:
+
+🔗 **[Acessar NotebookLM](https://notebooklm.google.com/notebook/cd57c7cb-ed2d-4cc0-8137-2e703565ffcf/preview)**
+
 # 📷 Capturas de Tela
 
 
